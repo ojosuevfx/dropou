@@ -14,7 +14,7 @@ const FOLDERS = {
 
 const TELEGRAM_TOKEN = '8480241954:AAHEb_ukvfeorRGeGPZDuCd4jQXKKXUDKDs';
 const TELEGRAM_CHAT_ID = '6767958656';
-const INTERVALO_MINUTOS = 0.3;
+const INTERVALO_MINUTOS = 1;
 
 function escapeHtml(text) {
   return String(text)
