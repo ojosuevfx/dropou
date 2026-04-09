@@ -9,7 +9,9 @@ const LAST_CHECK_PATH = './last_check.json';
 // PASTAS MONITORADAS
 const FOLDERS = {
   '1PLmSVfpDofZKqnPyOD8vS3GaUVUb0h1D': '🎬 Vídeos longos brutos',
-  '1A1p55sW16vqZQCRrw7le9Fqbyt9jwcbw': '⚡ Vídeos curtos brutos'
+  '1PLmSVfpDofZKqnPyOD8vS3GaUVUb0h1D': '🎬 Vídeos longos Finalizados',
+  '1A1p55sW16vqZQCRrw7le9Fqbyt9jwcbw': '⚡ Vídeos curtos brutos',
+  '1mQWgKWOF8u08camwIMh3fitAA8k0SZhH': '⚡ Vídeos curtos Finalizados'
 };
 
 const TELEGRAM_TOKEN = '8480241954:AAHEb_ukvfeorRGeGPZDuCd4jQXKKXUDKDs';
